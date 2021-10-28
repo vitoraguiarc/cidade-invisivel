@@ -9,30 +9,3 @@ body {
   display: flex;
   flex-direction: column;
 }
-
-header {
-  height: 100px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding-left: 90px;
-  padding-right: 90px;
-}
-
-.logo {
-  background-color: darkblue;
-}
-
-.menu {
-  background-color: darkred;
-}
-
-main {
-  flex-grow: 1;
-  background-color: blueviolet;
-}
-
-footer {
-  height: 70px;
-  background-color: chocolate;
-}
