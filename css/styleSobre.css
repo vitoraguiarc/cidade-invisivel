@@ -1,0 +1,14 @@
+body {
+  background-image: url(../img/background.png);
+  background-size: cover;
+  background-position: right top;
+  background-color: #13312c40;
+  background-blend-mode: darken;
+
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
